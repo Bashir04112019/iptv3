@@ -1,23 +1,41 @@
-#EXTM3U
-#EXTINF:-1,DE | DAS ERSTE
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17196
-#EXTINF:-1,DE | 3SAT
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17197
-#EXTINF:-1,DE | ZDF 4K+
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17198
-#EXTINF:-1,DE | ZDF INFO
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17199
-#EXTINF:-1,DE | VOX
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17200
-#EXTINF:-1,DE | WDR HD+
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17201
-#EXTINF:-1,DE | TELE 5
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17202
-#EXTINF:-1,DE | SWR
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17203
-#EXTINF:-1,DE | SAT 1 4K+
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17204
-#EXTINF:-1,DE | SAT 1 EMOTIONS
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17205
-#EXTINF:-1,DE | SPIEGEL GESCHICHTE
-http://mytvonline.nl:80/LjH4FPQl2X/Q4CnPzpoZl/17206
+EXTM3U
+#EXTINF:-1,13th Street HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4431
+#EXTINF:-1,ANIXE FHD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4432
+#EXTINF:-1,Sky Movies BoxOffice 1 HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4433
+#EXTINF:-1,Sky Movies BoxOffice 2 HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4434
+#EXTINF:-1,Sky Movies BoxOffice 3 HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4435
+#EXTINF:-1,Sky Movies BoxOffice 4 HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4436
+#EXTINF:-1,Disney Cinemagic HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4437
+#EXTINF:-1,Disney Junior FHD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4438
+#EXTINF:-1,Disney XD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4439
+#EXTINF:-1,Nick Jr. HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4440
+#EXTINF:-1,FC Bayern TV HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4441
+#EXTINF:-1,FOX HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4442
+#EXTINF:-1,MediaShop DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4443
+#EXTINF:-1,FOX DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4444
+#EXTINF:-1,HR DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4445
+#EXTINF:-1,Heimatikanal DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4446
+#EXTINF:-1,History HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4447
+#EXTINF:-1,Jukebox DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4448
+#EXTINF:-1,Junior DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4449
+#EXTINF:-1,kabel eins HD DE
+http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4450
