@@ -1,32 +1,19 @@
 #EXTM3U
-http://tv.ultraiptv.org/get.php?username=yntliomj&password=HW5if6u1i8&type=m3u
-
-http://185.23.215.146:25461/get.php?username=sportgenerCH&password=NNBkknvcLKG&type=m3u
-
-http://beastiptv.tv:25461/get.php?username=q9UGpGpD5L&password=DzVItMvkFb&type=m3u
-
-http://89.187.185.168/get.php?username=gutvaujc&password=oMkup4Y891&type=m3u
-
-http://yacinebeiin.ddns.net:8000/get.php?username=beeeiiin888&password=beeeiiin888&type=m3u
-
-http://89.187.185.168/get.php?username=yntliomj&password=HW5if6u1i8&type=m3u
-
-http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u
-
-http://213.152.172.67:25461/get.php?username=sourceturkiapro2&password=8684782188&type=m3u
-
-http://213.152.172.67:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u
-
-http://95.217.74.182:3500/get.php?username=gokhan.c&password=olsd302-gokhanc&type=m3u
-
-http://z.iptvsubscription.org:80/get.php?username=mohanad&password=mohanad&type=m3u
-
-http://tv2iptv.com:8000/get.php?username=Moyo&password=moyo123&type=m3u
-
-http://tv2iptv.com:8000/get.php?username=Majid&password=majid123&type=m3u
-
-http://tv.lavanatv.net:30003/get.php?username=KXp7IZyDt1&password=JC7l8YbwnB&type=m3u
-
-http://portal.ipturkhd.com:8000/get.php?username=nlineswithreshareforsale&password=hLIX9hIJNK&type=m3u
-
-http://tv.sigma-iptv.com:7000/get.php?username=45905&password=13543107&type=m3u
+#EXTINF:-1,|FR| BFM TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534637.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5730.m3u8
+#EXTINF:-1,|FR| BFM PARIS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534636.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5718.m3u8
+#EXTINF:-1,|FR| FRANCE 24
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543867.m3u8
+#EXTINF:-1,|FR| LCI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534634.m3u8
+#EXTINF:-1,|FR| LCI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5724.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534635.m3u8
+#EXTINF:-1,|FR| CNEWS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534631.m3u8
